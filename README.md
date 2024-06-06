@@ -1,0 +1,1 @@
+# Joint-Optimization-of-AoI-and-Energy-Consumption-in-NR-V2X-System-based-on-DRL
